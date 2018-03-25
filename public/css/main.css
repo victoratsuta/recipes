@@ -1,0 +1,28 @@
+.wrapper-page {
+    margin: 7.5% auto;
+    max-width: 460px;
+    position: relative;
+}
+
+.help-block{
+    color: red;
+}
+.form-container form{
+    display: inline;
+}
+
+.recipe-tr:hover{
+    background: #AEB8C3 !important;
+    border: none;
+}
+
+.ingredients-table{
+    width: 100%;
+}
+.ingredients-remove{
+    text-align: right;
+}
+
+.ingredient-mb-2{
+    margin-bottom: 10px;
+}

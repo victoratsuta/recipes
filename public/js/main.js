@@ -1,4 +1,6 @@
-$('.table').DataTable();
+$('.table').DataTable( {
+    responsive: true
+} );
 
 var $ingredients = $('#ingredients');
 var $sendRecipes = $('.send-recipes');
